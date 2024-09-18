@@ -10,7 +10,7 @@
 - *2021.03*, Non-autoregressive Speech Synthesis, PaperWeekly & biendata \| [\[video\]](https://www.bilibili.com/video/BV1uf4y1t7Hr/)
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
-# Teaching
+# 💻 Teaching
 - [Database Systems (COMP2411)](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP2411.pdf), Teaching Assistant.
 - [Cyber and Internet Security (COMP5355)](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5355.pdf), Teaching Assistant.
 
