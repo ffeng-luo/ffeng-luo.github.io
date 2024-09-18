@@ -11,6 +11,7 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 # Teaching
+- [Database Systems (COMP2411)](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP2411.pdf), Teaching Assistant.
 - [Cyber and Internet Security (COMP5355)](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5355.pdf), Teaching Assistant.
 
 # Services
