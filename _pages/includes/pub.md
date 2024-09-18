@@ -7,7 +7,7 @@
 ACM Conference on Computer and Communications Security, 2024. \\
 Full paper version with the appendix ([Paper](papers/ccs24.pdf))
 
-- ``ISSTA 2024`` Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis ([Paper](https://2024.issta.org/track/issta-2024-papers#event-overview)) \\
+- ``ISSTA 2024`` Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis ([Paper](https://dl.acm.org/doi/abs/10.1145/3650212.3680391)) \\
 S. Song, J. Chen, T. Chen, X. Luo, T. Li, W. Yang, L. Wang, W. Zhang, **<u>F. Luo</u>**, Z. He, Y. Lu, P. Li \\
 ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
 
