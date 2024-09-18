@@ -1,6 +1,6 @@
 
-# Publications 
-<!-- # 📝 Publications -->
+<!-- # Publications  -->
+# 📝 Publications
 
 - ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models ([Paper](https://ieeexplore.ieee.org/document/10248062)) \\
 **<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
