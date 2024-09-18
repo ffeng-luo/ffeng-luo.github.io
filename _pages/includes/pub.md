@@ -5,7 +5,7 @@
 - ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models ([Paper](https://ieeexplore.ieee.org/document/10248062)) \\
 **<u>F. Luo</u>**, K. Lin, Z. Li, S. Sun, X. Luo, R. Luo, Z. He, S. Song, T. Chen \\
 ACM Conference on Computer and Communications Security, 2024. \\
-Full paper version with the appendix ([Paper](includes/papers/ccs24.pdf))
+Full paper version with the appendix ([Paper](papers/ccs24.pdf))
 
 - ``ISSTA 2024`` Empirical Study of Move Smart Contract Security: Introducing MoveScan for Enhanced Analysis ([Paper](https://2024.issta.org/track/issta-2024-papers#event-overview)) \\
 S. Song, J. Chen, T. Chen, X. Luo, T. Li, W. Yang, L. Wang, W. Zhang, **<u>F. Luo</u>**, Z. He, Y. Lu, P. Li \\
