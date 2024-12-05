@@ -3,8 +3,8 @@
 # 📝 Publications
 
 - ``FAST 2025`` Maat: Analyzing and Optimizing Overcharge on Blockchain Storage \\
-Z. He, Z. Li, A. Qiao, J. Li, T. Li, **<u>F. Luo</u>**, S. Yang, G. Deng, S. Song, X. Zhang, T. Chen, X. Luo \\
-The Usenix Conference on File and Storage Technologies, 2025.
+Z. He, Z. Li, A. Qiao, J. Li, **<u>F. Luo</u>**, S. Yang, G. Deng, S. Song, X. Zhang, T. Chen, X. Luo \\
+Usenix Conference on File and Storage Technologies, 2025.
 
 - ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models ([Paper](https://ieeexplore.ieee.org/document/10248062)) \\
 **<u>F. Luo</u>**, H. Lin, Z. Li, X. Luo, R. Luo, Z. He, S. Song, T. Chen, W. Luo \\
