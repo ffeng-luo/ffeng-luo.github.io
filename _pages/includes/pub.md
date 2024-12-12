@@ -6,7 +6,7 @@
 Z. He, Z. Li, A. Qiao, J. Li, **<u>F. Luo</u>**, S. Yang, G. Deng, S. Song, X. Zhang, T. Chen, X. Luo \\
 Usenix Conference on File and Storage Technologies, 2025.
 
-- ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models ([Paper](https://ieeexplore.ieee.org/document/10248062)) \\
+- ``CCS 2024`` Towards Automatic Discovery of Denial of Service Weaknesses in Blockchain Resource Models ([Paper](https://dl.acm.org/doi/10.1145/3658644.3690329)) \\
 **<u>F. Luo</u>**, H. Lin, Z. Li, X. Luo, R. Luo, Z. He, S. Song, T. Chen, W. Luo \\
 ACM Conference on Computer and Communications Security, 2024. \\
 Full paper version with the appendix ([Paper](papers/ccs24.pdf))
