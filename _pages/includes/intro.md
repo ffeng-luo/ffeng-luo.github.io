@@ -1,7 +1,5 @@
 Feng Luo is currently pursuing a PhD degree in the Department of Computing at the Hong Kong Polytechnic University under the supervision of [Prof. Daniel Xiapu Luo](https://www4.comp.polyu.edu.hk/~csxluo/). Before that, he received his B.S. and M.S. degrees from the University of Electronic Science and Technology of China under the supervision of  [Prof. Ting Chen](https://faculty.uestc.edu.cn/chenting/zh_CN/index/156491/list/index.htm). His current research interests include blockchain security, smart contract security, and decentralized finance (DeFi).
 
-Translated with DeepL.com (free version)
-
 <!-- I work at [Bytedance AI Lab, Speech & Audio Team](https://ailab.bytedance.com/) <img src='./images/tiktok.png' style='width: 6em;'> as a research scientist now in Singapore, leading a fundamental audio/talkingface research group. 
 
 I am now working on TTS, music generation, speech translation and audio-driven talking face generation research. If you are seeking any form of **academic cooperation**, please feel free to email me at [ren.yi@bytedance.com](mailto:ren.yi@bytedance.com).
