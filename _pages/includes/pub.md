@@ -2,6 +2,14 @@
 <!-- # Publications  -->
 # 📝 Publications
 
+- ``USENIX SEC 2025`` Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer \\
+Z. Ma, M. Jiang, **<u>F. Luo</u>**, X. Luo, Y. Zhou \\
+USENIX Security Symposium, 2025.
+
+- ``USENIX SEC 2025`` Auspex: Unveiling Inconsistency Bugs of Transaction Fee Mechanism in Blockchain \\
+Z. He, Z. Li, J. Luo, **<u>F. Luo</u>**, J. Duan, J. Li, S. Song, X. Luo, T. Chen, X. Zhang \\
+USENIX Security Symposium, 2025.
+
 - ``FAST 2025`` Maat: Analyzing and Optimizing Overcharge on Blockchain Storage \\
 Z. He, Z. Li, A. Qiao, J. Li, **<u>F. Luo</u>**, S. Yang, G. Deng, S. Song, X. Zhang, T. Chen, X. Luo \\
 Usenix Conference on File and Storage Technologies, 2025.
