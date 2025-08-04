@@ -2,9 +2,9 @@
 <!-- # Publications  -->
 # 📝 Publications
 
-<!-- - ``NDSS 2026`` Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle \\
+- ``NDSS 2026`` Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle \\
 **<u>F. Luo</u>**, Z. Li, W. Luo, Z. He, X. Luo, Z. Ma, S. Song, T. Chen \\
-The Network and Distributed System Security Symposium, 2026. -->
+The Network and Distributed System Security Symposium, 2026.
 
 - ``USENIX SEC 2025`` Surviving in Dark Forest: Towards Evading the Attacks from Front-Running Bots in Application Layer \\
 Z. Ma, M. Jiang, **<u>F. Luo</u>**, X. Luo, Y. Zhou \\
