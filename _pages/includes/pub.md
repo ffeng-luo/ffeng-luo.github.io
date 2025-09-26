@@ -27,7 +27,7 @@ Full paper version with the appendix ([Paper](papers/ccs24.pdf))
 S. Song, J. Chen, T. Chen, X. Luo, T. Li, W. Yang, L. Wang, W. Zhang, **<u>F. Luo</u>**, Z. He, Y. Lu, P. Li \\
 ACM SIGSOFT International Symposium on Software Testing and Analysis, 2024.
 
-- ``ICSE 2024`` SCVHunter: Smart Contract VulnerabilityDetection Based on Heterogeneous GraphAttention Network ([Paper](https://dl.acm.org/doi/10.1145/3597503.3639213)) \\
+- ``ICSE 2024`` SCVHunter: Smart Contract VulnerabilityDetection Based on Heterogeneous Graph Attention Network ([Paper](https://dl.acm.org/doi/10.1145/3597503.3639213)) \\
 **<u>F. Luo</u>**, R. Luo, T. Chen, A. Qiao, Z. He, S. Song, Y. Jiang, S. Li \\
 IEEE/ACM International Conference on Software Engineering, 2024.
 
