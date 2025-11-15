@@ -18,7 +18,11 @@
 
 <!-- # Services -->
 # 💻 Services
-- IEEE Transactions on Dependable and Secure Computing (TDSC), Journal Reviewer
+Program Committee Member
+- USENIX Security Symposium 2026, Artifact Evaluation
+
+Reviewer
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
 
 <!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
