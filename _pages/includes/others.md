@@ -11,6 +11,7 @@
 - *2020.12*, Non-autoregressive Speech Synthesis, Huawei Noah's Ark Lab internal talk -->
 
 # 💻 Teaching
+- [Computer Systems Security (COMP3334)](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP3334.pdf), Teaching Assistant.
 - [System Programming (COMP3438)](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP3438.pdf), Teaching Assistant.
 - [Big Data Computing (COMP5434)](https://www.polyu.edu.hk/comp/docdrive/tpg/subject/COMP5434.pdf), Teaching Assistant.
 - [Database Systems (COMP2411)](https://www.polyu.edu.hk/comp/docdrive/ug/subject/COMP2411.pdf), Teaching Assistant.
@@ -19,6 +20,7 @@
 <!-- # Services -->
 # 💻 Services
 ### Program Committee Member
+- IEEE S&P 2026, Artifact Evaluation
 - USENIX Security Symposium 2026, Artifact Evaluation
 
 ### Reviewer
