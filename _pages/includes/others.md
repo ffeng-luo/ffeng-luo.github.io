@@ -19,9 +19,12 @@
 
 <!-- # Services -->
 # 💻 Services
-### Program Committee Member
-- IEEE S&P 2026, Artifact Evaluation
-- USENIX Security Symposium 2026, Artifact Evaluation
+### Program Committee
+- USENIX Security 2027
+
+### Artifact Evaluation Committee
+- IEEE S&P 2026
+- USENIX Security 2026
 
 ### Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
