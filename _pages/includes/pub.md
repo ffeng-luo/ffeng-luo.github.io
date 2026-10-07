@@ -2,6 +2,9 @@
 <!-- # Publications  -->
 # 📝 Publications
 
+- ``arXiv`` A Survey of LLM-Driven Penetration Testing: Taxonomy, Co-Evolution, and Open Challenges \\
+Z. He, J. Dong, Z. Li, T. Chen, G. Deng, **<u>F. Luo</u>**, J. Ji, Y. Cao, X. Luo.
+
 - ``NDSS 2026`` Light into Darkness: Demystifying Profit Strategies Throughout the MEV Bot Lifecycle \\
 **<u>F. Luo</u>**, Z. Li, W. Luo, Z. He, X. Luo, Z. Ma, S. Song, T. Chen \\
 The Network and Distributed System Security Symposium, 2026.
