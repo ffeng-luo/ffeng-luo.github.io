@@ -21,6 +21,7 @@
 # 💻 Services
 ### Program Committee
 - USENIX Security 2027
+- IEEE ICPADS 2026
 
 ### Artifact Evaluation Committee
 - IEEE S&P 2026
@@ -28,6 +29,7 @@
 
 ### Reviewer
 - IEEE Transactions on Dependable and Secure Computing (TDSC)
+- Financial Innovation (FIN)
 
 <!-- - *2021.06 - 2021.09*, Alibaba, Hangzhou.
 - *2019.05 - 2020.02*, [EnjoyMusic](https://enjoymusic.ai/), Hangzhou.
